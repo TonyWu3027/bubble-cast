@@ -38,15 +38,24 @@
 }
 
 
+.cast-header{
+  margin-top: 70px;
+}
 
 .container {
   margin : 3vh;
+
 }
 
 .wave{
+  margin :auto;
   display: flex;
   align-items: center;
   justify-content: flex-end;
+}
+
+.wave-container{
+  margin-top: 230px;
 }
 
 .castpic {
@@ -243,4 +252,17 @@
   border-radius: 20px;
   margin-left: 5px;
   margin-right:5px;
+}
+
+
+.intro{
+  background-color: #EF476F;
+}
+
+.more {
+  background-color: #7D53DE;
+}
+
+.final {
+  background-color: #4CD964;
 }
